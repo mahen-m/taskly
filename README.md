@@ -1,2 +1,2 @@
 # taskly
-A task manager.
+Your task manager.
