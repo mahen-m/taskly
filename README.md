@@ -1,2 +1,2 @@
 # taskly
-An A.I task manager.
+A task manager.
